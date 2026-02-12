@@ -1,4 +1,4 @@
-const CACHE_NAME = "pfconcursos-v1";
+const CACHE_NAME = "QuizConcursoPolíciaFederal-v1";
 const urlsToCache = ["index.html", "style.css", "manifest.json"];
 
 self.addEventListener("install", event => {
